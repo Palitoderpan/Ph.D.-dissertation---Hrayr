@@ -1,4 +1,4 @@
-This folder contains databases and R scripts regarding the questionnaire "Sobrepeso y Obesidad en México" that was conducted online between 2021 & 2022.
+This folder contains the main database regarding the questionnaire "Sobrepeso y Obesidad en México" that was conducted online between 2021 & 2022.
 DESCRIPTION.
 There are 38 variables in total in the OO Survey Data.csv file:
 1. ID: A unique identifier for each participant. The number was assigned according to the order in which they responded the survey.
