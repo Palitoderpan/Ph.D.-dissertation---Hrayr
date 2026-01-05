@@ -1,4 +1,5 @@
 This folder contains the main database regarding the questionnaire "Sobrepeso y Obesidad en México" that was conducted online between 2021 & 2022.
+If you want to access the full database or the R code utilized for the statistical analysis, please reach out to Hrayr Der Hagopian at hrayrdht@ciencias.unam.mx and provide a detailed explanation for your request.
 DESCRIPTION.
 There are 38 variables in total in the OO Survey Data.csv file:
 1. ID: A unique identifier for each participant. The number was assigned according to the order in which they responded the survey.
