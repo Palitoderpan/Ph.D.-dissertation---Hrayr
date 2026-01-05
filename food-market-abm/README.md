@@ -1,1 +1,1 @@
-This folder contains the food market ABM developed in NetLogo, a file used for calibration, the policy-simulation database, and an R script with the sensitivity analysis.
+This folder contains the food market ABM developed in NetLogo, a file used for calibration, and the policy-simulation database used for sensitivity analysis.
